@@ -15,15 +15,6 @@ Este projeto utiliza técnicas de Machine Learning para prever a posição de um
 
 A solução inclui treinamento de modelos, avaliação de desempenho, testes automatizados e uma aplicação web construída com Flask para realizar predições.
 
-
----
-## Anonimato dos dados
-
-No contexto deste projeto, as decisões já contribuem para a redução de riscos de identificação:
-
-* Não são utilizados identificadores diretos, como nomes de jogadores
-* Apenas atributos numéricos agregados são considerados (ex: velocidade, finalização, passe)
-* A variável alvo é uma categoria genérica (posição do jogador), sem ligação direta a indivíduos específicos
   
 ---
  
@@ -141,6 +132,14 @@ Os testes verificam:
 * Existência do modelo treinado
 * Validade das previsões
 * Acurácia mínima de 70%
+  
+## Anonimato dos dados
+
+No contexto deste projeto, as decisões já contribuem para a redução de riscos de identificação:
+
+* Não são utilizados identificadores diretos, como nomes de jogadores
+* Apenas atributos numéricos agregados são considerados (ex: velocidade, finalização, passe)
+* A variável alvo é uma categoria genérica (posição do jogador), sem ligação direta a indivíduos específicos
 
 ---
 
