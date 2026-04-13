@@ -111,7 +111,7 @@ O script:
 ## Executar a Aplicação
 
 ```bash id="z8k2n1"
-python app.py
+python app/app.py
 ```
 
 A aplicação será iniciada em:
