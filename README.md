@@ -38,8 +38,6 @@ A solução inclui treinamento de modelos, avaliação de desempenho, testes aut
 * Joblib
 * Pytest
 
-Dependências completas em: 
-
 ---
 
 ## Estrutura do Projeto
