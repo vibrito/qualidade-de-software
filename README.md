@@ -132,6 +132,8 @@ Os testes verificam:
 * Existência do modelo treinado
 * Validade das previsões
 * Acurácia mínima de 70%
+
+---
   
 ## Anonimato dos dados
 
