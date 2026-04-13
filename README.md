@@ -1,3 +1,14 @@
+**Qualidade de Software**<br />
+<br />
+*Pontifícia Universidade Católica do Rio de Janeiro*<br />
+<br />
+*Curso de Engenharia de Software*<br />
+<br />
+*Aluno: Vinicius do Carmo Brito*<br />
+<br />
+---
+
+
 # Descubra a posição do jogador
 
 Este projeto utiliza técnicas de Machine Learning para prever a posição de um jogador de futebol (Zagueiro, Meio-campista ou Atacante) com base em atributos técnicos.
