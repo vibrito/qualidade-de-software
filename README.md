@@ -49,7 +49,8 @@ A solução inclui treinamento de modelos, avaliação de desempenho, testes aut
 ├── src/
 │   ├── train_model.py
 │   └── test_model.py
-├── app.py
+├── app/
+│   ├── app.py
 ├── requirements.txt
 ```
 
