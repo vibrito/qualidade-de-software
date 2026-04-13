@@ -4,10 +4,6 @@ Este projeto utiliza técnicas de Machine Learning para prever a posição de um
 
 A solução inclui treinamento de modelos, avaliação de desempenho, testes automatizados e uma aplicação web construída com Flask para realizar predições.
 
----
-
-## Endereço do Google Collab
-https://colab.research.google.com/drive/1DBOg1Tp-6KhEhWNAgMviNEJa_o3zsX7v?usp=sharing
 
 ---
 
