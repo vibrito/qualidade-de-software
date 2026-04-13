@@ -151,12 +151,6 @@ Os testes verificam:
 
 ---
 
-## Licença
-
-Projeto de uso educacional.
-
----
-
 ## Autor
 
 Vinicius do Carmo Brito
