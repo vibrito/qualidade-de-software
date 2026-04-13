@@ -17,7 +17,16 @@ A solução inclui treinamento de modelos, avaliação de desempenho, testes aut
 
 
 ---
+## Anonimato dos dados
 
+No contexto deste projeto, as decisões já contribuem para a redução de riscos de identificação:
+
+* Não são utilizados identificadores diretos, como nomes de jogadores
+* Apenas atributos numéricos agregados são considerados (ex: velocidade, finalização, passe)
+* A variável alvo é uma categoria genérica (posição do jogador), sem ligação direta a indivíduos específicos
+  
+---
+ 
 ## Funcionalidades
 
 * Classificação de jogadores por posição
