@@ -70,8 +70,8 @@ O dataset é carregado de uma fonte pública
 ## Instalação
 
 ```bash id="p3k1z7"
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/vibrito/qualidade-de-software
+cd qualidade-de-software-main
 
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
